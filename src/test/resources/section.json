@@ -1,0 +1,58 @@
+{
+    "name": "foo",
+    "id": "fooId",
+    "layout": {
+        "uriMap": {
+            "DOUBLE": "laer-w4-h4-tile-foo",
+            "WIDE": "laer-w2-h1-tile-foo",
+            "HALF": "laer-w1-h1-tile-foo",
+            "NORMAL": "laer-w2-h2-tile-foo",
+            "TALL": "laer-w1-h2-tile-foo",
+            "EXTRA_TALL": "laer-w2-h4-tile-foo",
+            "EXTRA_WIDE": "laer-w4-h2-tile-foo"
+        }
+    },
+    "sections": {
+        "title": {
+            "headline": "foo",
+            "layouts": {
+                "uriMap": {
+                    "DOUBLE": "notext",
+                    "WIDE": "notext",
+                    "HALF": "notext",
+                    "NORMAL": "notext",
+                    "TALL": "notext",
+                    "EXTRA_TALL": "notext",
+                    "EXTRA_WIDE": "notext"
+                }
+            }
+        },
+        "cover": {
+            "resources": {
+                "image": {
+                    "uriMap": {
+                        "DOUBLE": "i/foo-w4-h4.png",
+                        "WIDE": "i/foo-w2-h1.png",
+                        "HALF": "i/foo-w1-h1.png",
+                        "NORMAL": "i/foo-w2-h2.png",
+                        "TALL": "i/foo-w1-h2.png",
+                        "EXTRA_TALL": "i/foo-w2-h4.png",
+                        "EXTRA_WIDE": "i/foo-w4-h2.png"
+                    }
+                }
+            },
+            "layouts": {
+                "uriMap": {
+                    "DOUBLE": "nohead-notext-image",
+                    "WIDE": "nohead-notext-image",
+                    "HALF": "nohead-notext-image",
+                    "NORMAL": "nohead-notext-image",
+                    "TALL": "nohead-notext-image",
+                    "EXTRA_TALL": "nohead-notext-image",
+                    "EXTRA_WIDE": "nohead-notext-image"
+                }
+            }
+        }
+    },
+    "formats": ["DOUBLE", "HALF", "WIDE", "NORMAL", "TALL", "EXTRA_WIDE", "EXTRA_TALL"]
+}

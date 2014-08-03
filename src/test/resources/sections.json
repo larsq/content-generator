@@ -1,0 +1,1936 @@
+{
+    "sections": {
+        "bar": {
+            "section": {
+                "name": "bar",
+                "id": "bar",
+                "layout": {
+                    "uriMap": {}
+                },
+                "sections": {
+                    "bar": {
+                        "headline": "bar",
+                        "resources": {
+                            "bar": {
+                                "uriMap": {}
+                            }
+                        },
+                        "layouts": {
+                            "uriMap": {}
+                        }
+                    }
+                },
+                "formats": []
+            },
+            "articles": [{
+                    "name": "Donec ",
+                    "id": "072f4e3f-9495-45a9-941d-36b3d16bf3d6",
+                    "layout": {
+                        "uriMap": {
+                            "EXTRA_TALL": "laer-article-w2-h4-tile-bar-072f4e3f-9495-45a9-941d-36b3d16bf3d6"
+                        }
+                    },
+                    "sections": {
+                        "072f4e3f-9495-45a9-941d-36b3d16bf3d6": {
+                            "headline": "Donec ",
+                            "resources": {
+                                "cover-072f4e3f-9495-45a9-941d-36b3d16bf3d6": {
+                                    "uriMap": {
+                                        "EXTRA_TALL": "laer-article-w2-h4-section-cover-072f4e3f-9495-45a9-941d-36b3d16bf3d6"
+                                    }
+                                },
+                                "story-072f4e3f-9495-45a9-941d-36b3d16bf3d6": {
+                                    "uriMap": {
+                                        "EXTRA_TALL": "laer-article-w2-h4-section-story-072f4e3f-9495-45a9-941d-36b3d16bf3d6"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "EXTRA_TALL": "laer-article-w2-h4-section-bar-072f4e3f-9495-45a9-941d-36b3d16bf3d6-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["EXTRA_TALL"]
+                }, {
+                    "name": "Aenean n",
+                    "id": "5f6c4afa-ba27-4c5a-a188-f5e12a297a3a",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-5f6c4afa-ba27-4c5a-a188-f5e12a297a3a"
+                        }
+                    },
+                    "sections": {
+                        "5f6c4afa-ba27-4c5a-a188-f5e12a297a3a": {
+                            "headline": "Aenean n",
+                            "resources": {
+                                "story-5f6c4afa-ba27-4c5a-a188-f5e12a297a3a": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-5f6c4afa-ba27-4c5a-a188-f5e12a297a3a"
+                                    }
+                                },
+                                "cover-5f6c4afa-ba27-4c5a-a188-f5e12a297a3a": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-5f6c4afa-ba27-4c5a-a188-f5e12a297a3a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-5f6c4afa-ba27-4c5a-a188-f5e12a297a3a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-bar-5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a"
+                        }
+                    },
+                    "sections": {
+                        "5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "cover-5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a"
+                                    }
+                                },
+                                "story-5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-bar-5c5176e8-3161-47e4-8fbc-32bdfd6b5e2a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Suspendiss",
+                    "id": "cce2c0dc-9e61-4f16-a01b-6db55e8a83af",
+                    "layout": {
+                        "uriMap": {
+                            "WIDE": "laer-article-w2-h1-tile-bar-cce2c0dc-9e61-4f16-a01b-6db55e8a83af"
+                        }
+                    },
+                    "sections": {
+                        "cce2c0dc-9e61-4f16-a01b-6db55e8a83af": {
+                            "headline": "Suspendiss",
+                            "resources": {
+                                "story-cce2c0dc-9e61-4f16-a01b-6db55e8a83af": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-story-cce2c0dc-9e61-4f16-a01b-6db55e8a83af"
+                                    }
+                                },
+                                "cover-cce2c0dc-9e61-4f16-a01b-6db55e8a83af": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-cover-cce2c0dc-9e61-4f16-a01b-6db55e8a83af"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "WIDE": "laer-article-w2-h1-section-bar-cce2c0dc-9e61-4f16-a01b-6db55e8a83af-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["WIDE"]
+                }, {
+                    "name": "Proin nunc",
+                    "id": "728b0470-04fb-490b-84c3-1d4a505b401d",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-728b0470-04fb-490b-84c3-1d4a505b401d"
+                        }
+                    },
+                    "sections": {
+                        "728b0470-04fb-490b-84c3-1d4a505b401d": {
+                            "headline": "Proin nunc",
+                            "resources": {
+                                "cover-728b0470-04fb-490b-84c3-1d4a505b401d": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-728b0470-04fb-490b-84c3-1d4a505b401d"
+                                    }
+                                },
+                                "story-728b0470-04fb-490b-84c3-1d4a505b401d": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-728b0470-04fb-490b-84c3-1d4a505b401d"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-728b0470-04fb-490b-84c3-1d4a505b401d-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Donec ac a",
+                    "id": "b322d147-f0cd-4937-8673-75c49119d8b5",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-bar-b322d147-f0cd-4937-8673-75c49119d8b5"
+                        }
+                    },
+                    "sections": {
+                        "b322d147-f0cd-4937-8673-75c49119d8b5": {
+                            "headline": "Donec ac a",
+                            "resources": {
+                                "story-b322d147-f0cd-4937-8673-75c49119d8b5": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-b322d147-f0cd-4937-8673-75c49119d8b5"
+                                    }
+                                },
+                                "cover-b322d147-f0cd-4937-8673-75c49119d8b5": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-b322d147-f0cd-4937-8673-75c49119d8b5"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-bar-b322d147-f0cd-4937-8673-75c49119d8b5-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Nam dui do",
+                    "id": "d59807d5-67b1-4613-95ac-6157cd3c8f79",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-d59807d5-67b1-4613-95ac-6157cd3c8f79"
+                        }
+                    },
+                    "sections": {
+                        "d59807d5-67b1-4613-95ac-6157cd3c8f79": {
+                            "headline": "Nam dui do",
+                            "resources": {
+                                "story-d59807d5-67b1-4613-95ac-6157cd3c8f79": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-d59807d5-67b1-4613-95ac-6157cd3c8f79"
+                                    }
+                                },
+                                "cover-d59807d5-67b1-4613-95ac-6157cd3c8f79": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-d59807d5-67b1-4613-95ac-6157cd3c8f79"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-d59807d5-67b1-4613-95ac-6157cd3c8f79-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "a602f4a9-b59d-4a51-abb4-450f949f1719",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-bar-a602f4a9-b59d-4a51-abb4-450f949f1719"
+                        }
+                    },
+                    "sections": {
+                        "a602f4a9-b59d-4a51-abb4-450f949f1719": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "story-a602f4a9-b59d-4a51-abb4-450f949f1719": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-a602f4a9-b59d-4a51-abb4-450f949f1719"
+                                    }
+                                },
+                                "cover-a602f4a9-b59d-4a51-abb4-450f949f1719": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-a602f4a9-b59d-4a51-abb4-450f949f1719"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-bar-a602f4a9-b59d-4a51-abb4-450f949f1719-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Ut pellent",
+                    "id": "65640f28-03fd-496c-a5ac-1eff18678c88",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-65640f28-03fd-496c-a5ac-1eff18678c88"
+                        }
+                    },
+                    "sections": {
+                        "65640f28-03fd-496c-a5ac-1eff18678c88": {
+                            "headline": "Ut pellent",
+                            "resources": {
+                                "story-65640f28-03fd-496c-a5ac-1eff18678c88": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-65640f28-03fd-496c-a5ac-1eff18678c88"
+                                    }
+                                },
+                                "cover-65640f28-03fd-496c-a5ac-1eff18678c88": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-65640f28-03fd-496c-a5ac-1eff18678c88"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-65640f28-03fd-496c-a5ac-1eff18678c88-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "9009a00e-c0f1-4af0-a380-dca65cc895c7",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-bar-9009a00e-c0f1-4af0-a380-dca65cc895c7"
+                        }
+                    },
+                    "sections": {
+                        "9009a00e-c0f1-4af0-a380-dca65cc895c7": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "story-9009a00e-c0f1-4af0-a380-dca65cc895c7": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-9009a00e-c0f1-4af0-a380-dca65cc895c7"
+                                    }
+                                },
+                                "cover-9009a00e-c0f1-4af0-a380-dca65cc895c7": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-9009a00e-c0f1-4af0-a380-dca65cc895c7"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-bar-9009a00e-c0f1-4af0-a380-dca65cc895c7-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Nam dui do",
+                    "id": "c06eccdb-0b0c-4a8f-b948-ba249a29f226",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-bar-c06eccdb-0b0c-4a8f-b948-ba249a29f226"
+                        }
+                    },
+                    "sections": {
+                        "c06eccdb-0b0c-4a8f-b948-ba249a29f226": {
+                            "headline": "Nam dui do",
+                            "resources": {
+                                "cover-c06eccdb-0b0c-4a8f-b948-ba249a29f226": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-c06eccdb-0b0c-4a8f-b948-ba249a29f226"
+                                    }
+                                },
+                                "story-c06eccdb-0b0c-4a8f-b948-ba249a29f226": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-c06eccdb-0b0c-4a8f-b948-ba249a29f226"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-bar-c06eccdb-0b0c-4a8f-b948-ba249a29f226-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "e56e2292-fced-4655-a26c-b9cde6b4b33e",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-bar-e56e2292-fced-4655-a26c-b9cde6b4b33e"
+                        }
+                    },
+                    "sections": {
+                        "e56e2292-fced-4655-a26c-b9cde6b4b33e": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "story-e56e2292-fced-4655-a26c-b9cde6b4b33e": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-e56e2292-fced-4655-a26c-b9cde6b4b33e"
+                                    }
+                                },
+                                "cover-e56e2292-fced-4655-a26c-b9cde6b4b33e": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-e56e2292-fced-4655-a26c-b9cde6b4b33e"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-bar-e56e2292-fced-4655-a26c-b9cde6b4b33e-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Proin nunc",
+                    "id": "fef3b00d-6c27-4c40-81e0-d8c2cdb3052e",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-fef3b00d-6c27-4c40-81e0-d8c2cdb3052e"
+                        }
+                    },
+                    "sections": {
+                        "fef3b00d-6c27-4c40-81e0-d8c2cdb3052e": {
+                            "headline": "Proin nunc",
+                            "resources": {
+                                "story-fef3b00d-6c27-4c40-81e0-d8c2cdb3052e": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-fef3b00d-6c27-4c40-81e0-d8c2cdb3052e"
+                                    }
+                                },
+                                "cover-fef3b00d-6c27-4c40-81e0-d8c2cdb3052e": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-fef3b00d-6c27-4c40-81e0-d8c2cdb3052e"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-fef3b00d-6c27-4c40-81e0-d8c2cdb3052e-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "5dbad79c-6a00-4b4b-8749-616880289cb1",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-bar-5dbad79c-6a00-4b4b-8749-616880289cb1"
+                        }
+                    },
+                    "sections": {
+                        "5dbad79c-6a00-4b4b-8749-616880289cb1": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-5dbad79c-6a00-4b4b-8749-616880289cb1": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-5dbad79c-6a00-4b4b-8749-616880289cb1"
+                                    }
+                                },
+                                "story-5dbad79c-6a00-4b4b-8749-616880289cb1": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-5dbad79c-6a00-4b4b-8749-616880289cb1"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-bar-5dbad79c-6a00-4b4b-8749-616880289cb1-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Suspendiss",
+                    "id": "3cacbd84-cf70-4aa5-97df-836582e0e491",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-3cacbd84-cf70-4aa5-97df-836582e0e491"
+                        }
+                    },
+                    "sections": {
+                        "3cacbd84-cf70-4aa5-97df-836582e0e491": {
+                            "headline": "Suspendiss",
+                            "resources": {
+                                "story-3cacbd84-cf70-4aa5-97df-836582e0e491": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-3cacbd84-cf70-4aa5-97df-836582e0e491"
+                                    }
+                                },
+                                "cover-3cacbd84-cf70-4aa5-97df-836582e0e491": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-3cacbd84-cf70-4aa5-97df-836582e0e491"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-3cacbd84-cf70-4aa5-97df-836582e0e491-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Aenea",
+                    "id": "cff9bd6b-3c0e-4304-9e20-b75d9115ccf4",
+                    "layout": {
+                        "uriMap": {
+                            "EXTRA_WIDE": "laer-article-w4-h2-tile-bar-cff9bd6b-3c0e-4304-9e20-b75d9115ccf4"
+                        }
+                    },
+                    "sections": {
+                        "cff9bd6b-3c0e-4304-9e20-b75d9115ccf4": {
+                            "headline": "Aenea",
+                            "resources": {
+                                "story-cff9bd6b-3c0e-4304-9e20-b75d9115ccf4": {
+                                    "uriMap": {
+                                        "EXTRA_WIDE": "laer-article-w4-h2-section-story-cff9bd6b-3c0e-4304-9e20-b75d9115ccf4"
+                                    }
+                                },
+                                "cover-cff9bd6b-3c0e-4304-9e20-b75d9115ccf4": {
+                                    "uriMap": {
+                                        "EXTRA_WIDE": "laer-article-w4-h2-section-cover-cff9bd6b-3c0e-4304-9e20-b75d9115ccf4"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "EXTRA_WIDE": "laer-article-w4-h2-section-bar-cff9bd6b-3c0e-4304-9e20-b75d9115ccf4-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["EXTRA_WIDE"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "578a42fe-162e-4b22-9be5-156ce3af5f14",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-578a42fe-162e-4b22-9be5-156ce3af5f14"
+                        }
+                    },
+                    "sections": {
+                        "578a42fe-162e-4b22-9be5-156ce3af5f14": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-578a42fe-162e-4b22-9be5-156ce3af5f14": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-578a42fe-162e-4b22-9be5-156ce3af5f14"
+                                    }
+                                },
+                                "story-578a42fe-162e-4b22-9be5-156ce3af5f14": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-578a42fe-162e-4b22-9be5-156ce3af5f14"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-578a42fe-162e-4b22-9be5-156ce3af5f14-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55"
+                        }
+                    },
+                    "sections": {
+                        "c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "story-c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55"
+                                    }
+                                },
+                                "cover-c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-c1cdbbe0-c735-4c09-a2c8-eeaa0f261a55-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Duis ut qu",
+                    "id": "1ee03e74-17a0-4e13-b450-c2e51696e71a",
+                    "layout": {
+                        "uriMap": {
+                            "DOUBLE": "laer-article-w4-h4-tile-bar-1ee03e74-17a0-4e13-b450-c2e51696e71a"
+                        }
+                    },
+                    "sections": {
+                        "1ee03e74-17a0-4e13-b450-c2e51696e71a": {
+                            "headline": "Duis ut qu",
+                            "resources": {
+                                "cover-1ee03e74-17a0-4e13-b450-c2e51696e71a": {
+                                    "uriMap": {
+                                        "DOUBLE": "laer-article-w4-h4-section-cover-1ee03e74-17a0-4e13-b450-c2e51696e71a"
+                                    }
+                                },
+                                "story-1ee03e74-17a0-4e13-b450-c2e51696e71a": {
+                                    "uriMap": {
+                                        "DOUBLE": "laer-article-w4-h4-section-story-1ee03e74-17a0-4e13-b450-c2e51696e71a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "DOUBLE": "laer-article-w4-h4-section-bar-1ee03e74-17a0-4e13-b450-c2e51696e71a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["DOUBLE"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-bar-5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d"
+                        }
+                    },
+                    "sections": {
+                        "5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "cover-5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d"
+                                    }
+                                },
+                                "story-5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-bar-5bcdf63a-59b2-46cb-bfcf-7d52c32ee45d-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }]
+        },
+        "woz": {
+            "section": {
+                "name": "woz",
+                "id": "woz",
+                "layout": {
+                    "uriMap": {}
+                },
+                "sections": {
+                    "woz": {
+                        "headline": "woz",
+                        "resources": {
+                            "woz": {
+                                "uriMap": {}
+                            }
+                        },
+                        "layouts": {
+                            "uriMap": {}
+                        }
+                    }
+                },
+                "formats": []
+            },
+            "articles": [{
+                    "name": "Donec ac a",
+                    "id": "6b3a3f58-15dc-4774-a942-7268c6e46d2a",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-woz-6b3a3f58-15dc-4774-a942-7268c6e46d2a"
+                        }
+                    },
+                    "sections": {
+                        "6b3a3f58-15dc-4774-a942-7268c6e46d2a": {
+                            "headline": "Donec ac a",
+                            "resources": {
+                                "story-6b3a3f58-15dc-4774-a942-7268c6e46d2a": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-6b3a3f58-15dc-4774-a942-7268c6e46d2a"
+                                    }
+                                },
+                                "cover-6b3a3f58-15dc-4774-a942-7268c6e46d2a": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-6b3a3f58-15dc-4774-a942-7268c6e46d2a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-woz-6b3a3f58-15dc-4774-a942-7268c6e46d2a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Donec ac ",
+                    "id": "1c73e52a-75dd-4f8a-8937-208138e4a6e7",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-1c73e52a-75dd-4f8a-8937-208138e4a6e7"
+                        }
+                    },
+                    "sections": {
+                        "1c73e52a-75dd-4f8a-8937-208138e4a6e7": {
+                            "headline": "Donec ac ",
+                            "resources": {
+                                "story-1c73e52a-75dd-4f8a-8937-208138e4a6e7": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-1c73e52a-75dd-4f8a-8937-208138e4a6e7"
+                                    }
+                                },
+                                "cover-1c73e52a-75dd-4f8a-8937-208138e4a6e7": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-1c73e52a-75dd-4f8a-8937-208138e4a6e7"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-1c73e52a-75dd-4f8a-8937-208138e4a6e7-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Ut pellen",
+                    "id": "9a9e345d-fe48-47b7-ab91-f9a165369c4b",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-woz-9a9e345d-fe48-47b7-ab91-f9a165369c4b"
+                        }
+                    },
+                    "sections": {
+                        "9a9e345d-fe48-47b7-ab91-f9a165369c4b": {
+                            "headline": "Ut pellen",
+                            "resources": {
+                                "story-9a9e345d-fe48-47b7-ab91-f9a165369c4b": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-9a9e345d-fe48-47b7-ab91-f9a165369c4b"
+                                    }
+                                },
+                                "cover-9a9e345d-fe48-47b7-ab91-f9a165369c4b": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-9a9e345d-fe48-47b7-ab91-f9a165369c4b"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-woz-9a9e345d-fe48-47b7-ab91-f9a165369c4b-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "585eccf4-3393-4e5a-b914-559f270abff7",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-585eccf4-3393-4e5a-b914-559f270abff7"
+                        }
+                    },
+                    "sections": {
+                        "585eccf4-3393-4e5a-b914-559f270abff7": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "story-585eccf4-3393-4e5a-b914-559f270abff7": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-585eccf4-3393-4e5a-b914-559f270abff7"
+                                    }
+                                },
+                                "cover-585eccf4-3393-4e5a-b914-559f270abff7": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-585eccf4-3393-4e5a-b914-559f270abff7"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-585eccf4-3393-4e5a-b914-559f270abff7-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "70b45bef-c5aa-4a60-8467-8681f1b4d212",
+                    "layout": {
+                        "uriMap": {
+                            "WIDE": "laer-article-w2-h1-tile-woz-70b45bef-c5aa-4a60-8467-8681f1b4d212"
+                        }
+                    },
+                    "sections": {
+                        "70b45bef-c5aa-4a60-8467-8681f1b4d212": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-70b45bef-c5aa-4a60-8467-8681f1b4d212": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-cover-70b45bef-c5aa-4a60-8467-8681f1b4d212"
+                                    }
+                                },
+                                "story-70b45bef-c5aa-4a60-8467-8681f1b4d212": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-story-70b45bef-c5aa-4a60-8467-8681f1b4d212"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "WIDE": "laer-article-w2-h1-section-woz-70b45bef-c5aa-4a60-8467-8681f1b4d212-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["WIDE"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "6d4fc8f6-d88d-4c76-a6bc-87aa843f273a",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-6d4fc8f6-d88d-4c76-a6bc-87aa843f273a"
+                        }
+                    },
+                    "sections": {
+                        "6d4fc8f6-d88d-4c76-a6bc-87aa843f273a": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "story-6d4fc8f6-d88d-4c76-a6bc-87aa843f273a": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-6d4fc8f6-d88d-4c76-a6bc-87aa843f273a"
+                                    }
+                                },
+                                "cover-6d4fc8f6-d88d-4c76-a6bc-87aa843f273a": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-6d4fc8f6-d88d-4c76-a6bc-87aa843f273a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-6d4fc8f6-d88d-4c76-a6bc-87aa843f273a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Duis ut qu",
+                    "id": "f6955d9d-08a3-4027-871d-36c6b27f3bda",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-f6955d9d-08a3-4027-871d-36c6b27f3bda"
+                        }
+                    },
+                    "sections": {
+                        "f6955d9d-08a3-4027-871d-36c6b27f3bda": {
+                            "headline": "Duis ut qu",
+                            "resources": {
+                                "cover-f6955d9d-08a3-4027-871d-36c6b27f3bda": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-f6955d9d-08a3-4027-871d-36c6b27f3bda"
+                                    }
+                                },
+                                "story-f6955d9d-08a3-4027-871d-36c6b27f3bda": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-f6955d9d-08a3-4027-871d-36c6b27f3bda"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-f6955d9d-08a3-4027-871d-36c6b27f3bda-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "d0a8d2d1-d616-4f49-8ab9-b9420fd55adf",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-d0a8d2d1-d616-4f49-8ab9-b9420fd55adf"
+                        }
+                    },
+                    "sections": {
+                        "d0a8d2d1-d616-4f49-8ab9-b9420fd55adf": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "story-d0a8d2d1-d616-4f49-8ab9-b9420fd55adf": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-d0a8d2d1-d616-4f49-8ab9-b9420fd55adf"
+                                    }
+                                },
+                                "cover-d0a8d2d1-d616-4f49-8ab9-b9420fd55adf": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-d0a8d2d1-d616-4f49-8ab9-b9420fd55adf"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-d0a8d2d1-d616-4f49-8ab9-b9420fd55adf-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Donec ac a",
+                    "id": "73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb"
+                        }
+                    },
+                    "sections": {
+                        "73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb": {
+                            "headline": "Donec ac a",
+                            "resources": {
+                                "cover-73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb"
+                                    }
+                                },
+                                "story-73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-73e5a11b-12c1-4ea9-b5e2-cda8abcf68bb-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Nullam ali",
+                    "id": "545f8840-d46f-425d-beee-184ac28bd7ee",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-545f8840-d46f-425d-beee-184ac28bd7ee"
+                        }
+                    },
+                    "sections": {
+                        "545f8840-d46f-425d-beee-184ac28bd7ee": {
+                            "headline": "Nullam ali",
+                            "resources": {
+                                "story-545f8840-d46f-425d-beee-184ac28bd7ee": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-545f8840-d46f-425d-beee-184ac28bd7ee"
+                                    }
+                                },
+                                "cover-545f8840-d46f-425d-beee-184ac28bd7ee": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-545f8840-d46f-425d-beee-184ac28bd7ee"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-545f8840-d46f-425d-beee-184ac28bd7ee-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "b9961095-52fe-4d28-b0e1-6e36773ad04a",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-woz-b9961095-52fe-4d28-b0e1-6e36773ad04a"
+                        }
+                    },
+                    "sections": {
+                        "b9961095-52fe-4d28-b0e1-6e36773ad04a": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-b9961095-52fe-4d28-b0e1-6e36773ad04a": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-b9961095-52fe-4d28-b0e1-6e36773ad04a"
+                                    }
+                                },
+                                "story-b9961095-52fe-4d28-b0e1-6e36773ad04a": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-b9961095-52fe-4d28-b0e1-6e36773ad04a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-woz-b9961095-52fe-4d28-b0e1-6e36773ad04a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "ea7d357c-eb1d-44a4-9424-a5759f18d551",
+                    "layout": {
+                        "uriMap": {
+                            "EXTRA_WIDE": "laer-article-w4-h2-tile-woz-ea7d357c-eb1d-44a4-9424-a5759f18d551"
+                        }
+                    },
+                    "sections": {
+                        "ea7d357c-eb1d-44a4-9424-a5759f18d551": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-ea7d357c-eb1d-44a4-9424-a5759f18d551": {
+                                    "uriMap": {
+                                        "EXTRA_WIDE": "laer-article-w4-h2-section-cover-ea7d357c-eb1d-44a4-9424-a5759f18d551"
+                                    }
+                                },
+                                "story-ea7d357c-eb1d-44a4-9424-a5759f18d551": {
+                                    "uriMap": {
+                                        "EXTRA_WIDE": "laer-article-w4-h2-section-story-ea7d357c-eb1d-44a4-9424-a5759f18d551"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "EXTRA_WIDE": "laer-article-w4-h2-section-woz-ea7d357c-eb1d-44a4-9424-a5759f18d551-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["EXTRA_WIDE"]
+                }, {
+                    "name": "Nam dui do",
+                    "id": "4732af64-9ccf-45c3-93f6-b7cf4dbb6c29",
+                    "layout": {
+                        "uriMap": {
+                            "EXTRA_TALL": "laer-article-w2-h4-tile-woz-4732af64-9ccf-45c3-93f6-b7cf4dbb6c29"
+                        }
+                    },
+                    "sections": {
+                        "4732af64-9ccf-45c3-93f6-b7cf4dbb6c29": {
+                            "headline": "Nam dui do",
+                            "resources": {
+                                "cover-4732af64-9ccf-45c3-93f6-b7cf4dbb6c29": {
+                                    "uriMap": {
+                                        "EXTRA_TALL": "laer-article-w2-h4-section-cover-4732af64-9ccf-45c3-93f6-b7cf4dbb6c29"
+                                    }
+                                },
+                                "story-4732af64-9ccf-45c3-93f6-b7cf4dbb6c29": {
+                                    "uriMap": {
+                                        "EXTRA_TALL": "laer-article-w2-h4-section-story-4732af64-9ccf-45c3-93f6-b7cf4dbb6c29"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "EXTRA_TALL": "laer-article-w2-h4-section-woz-4732af64-9ccf-45c3-93f6-b7cf4dbb6c29-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["EXTRA_TALL"]
+                }, {
+                    "name": "Nam dui do",
+                    "id": "247f989a-0149-40cd-a4bc-183a868719b8",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-247f989a-0149-40cd-a4bc-183a868719b8"
+                        }
+                    },
+                    "sections": {
+                        "247f989a-0149-40cd-a4bc-183a868719b8": {
+                            "headline": "Nam dui do",
+                            "resources": {
+                                "cover-247f989a-0149-40cd-a4bc-183a868719b8": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-247f989a-0149-40cd-a4bc-183a868719b8"
+                                    }
+                                },
+                                "story-247f989a-0149-40cd-a4bc-183a868719b8": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-247f989a-0149-40cd-a4bc-183a868719b8"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-247f989a-0149-40cd-a4bc-183a868719b8-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Nam dui ",
+                    "id": "d671ab86-a065-4dcc-a880-385c92761e46",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-woz-d671ab86-a065-4dcc-a880-385c92761e46"
+                        }
+                    },
+                    "sections": {
+                        "d671ab86-a065-4dcc-a880-385c92761e46": {
+                            "headline": "Nam dui ",
+                            "resources": {
+                                "story-d671ab86-a065-4dcc-a880-385c92761e46": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-d671ab86-a065-4dcc-a880-385c92761e46"
+                                    }
+                                },
+                                "cover-d671ab86-a065-4dcc-a880-385c92761e46": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-d671ab86-a065-4dcc-a880-385c92761e46"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-woz-d671ab86-a065-4dcc-a880-385c92761e46-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "a73912be-930d-46fb-b356-850f2a2a5ddb",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-a73912be-930d-46fb-b356-850f2a2a5ddb"
+                        }
+                    },
+                    "sections": {
+                        "a73912be-930d-46fb-b356-850f2a2a5ddb": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "story-a73912be-930d-46fb-b356-850f2a2a5ddb": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-a73912be-930d-46fb-b356-850f2a2a5ddb"
+                                    }
+                                },
+                                "cover-a73912be-930d-46fb-b356-850f2a2a5ddb": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-a73912be-930d-46fb-b356-850f2a2a5ddb"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-a73912be-930d-46fb-b356-850f2a2a5ddb-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem",
+                    "id": "da8c6daf-1eeb-4f55-a54d-2e681e741702",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-da8c6daf-1eeb-4f55-a54d-2e681e741702"
+                        }
+                    },
+                    "sections": {
+                        "da8c6daf-1eeb-4f55-a54d-2e681e741702": {
+                            "headline": "Lorem",
+                            "resources": {
+                                "cover-da8c6daf-1eeb-4f55-a54d-2e681e741702": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-da8c6daf-1eeb-4f55-a54d-2e681e741702"
+                                    }
+                                },
+                                "story-da8c6daf-1eeb-4f55-a54d-2e681e741702": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-da8c6daf-1eeb-4f55-a54d-2e681e741702"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-da8c6daf-1eeb-4f55-a54d-2e681e741702-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Nam dui do",
+                    "id": "7ad99d0f-cb20-4fef-b457-d8453d2e443c",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-7ad99d0f-cb20-4fef-b457-d8453d2e443c"
+                        }
+                    },
+                    "sections": {
+                        "7ad99d0f-cb20-4fef-b457-d8453d2e443c": {
+                            "headline": "Nam dui do",
+                            "resources": {
+                                "story-7ad99d0f-cb20-4fef-b457-d8453d2e443c": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-7ad99d0f-cb20-4fef-b457-d8453d2e443c"
+                                    }
+                                },
+                                "cover-7ad99d0f-cb20-4fef-b457-d8453d2e443c": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-7ad99d0f-cb20-4fef-b457-d8453d2e443c"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-7ad99d0f-cb20-4fef-b457-d8453d2e443c-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Suspendiss",
+                    "id": "afdbe360-c8a2-41f8-9d09-10aa34ee089d",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-afdbe360-c8a2-41f8-9d09-10aa34ee089d"
+                        }
+                    },
+                    "sections": {
+                        "afdbe360-c8a2-41f8-9d09-10aa34ee089d": {
+                            "headline": "Suspendiss",
+                            "resources": {
+                                "cover-afdbe360-c8a2-41f8-9d09-10aa34ee089d": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-afdbe360-c8a2-41f8-9d09-10aa34ee089d"
+                                    }
+                                },
+                                "story-afdbe360-c8a2-41f8-9d09-10aa34ee089d": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-afdbe360-c8a2-41f8-9d09-10aa34ee089d"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-afdbe360-c8a2-41f8-9d09-10aa34ee089d-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Suspendiss",
+                    "id": "fd5a37c9-c290-4877-a072-f0f3fc6531cd",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-woz-fd5a37c9-c290-4877-a072-f0f3fc6531cd"
+                        }
+                    },
+                    "sections": {
+                        "fd5a37c9-c290-4877-a072-f0f3fc6531cd": {
+                            "headline": "Suspendiss",
+                            "resources": {
+                                "story-fd5a37c9-c290-4877-a072-f0f3fc6531cd": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-fd5a37c9-c290-4877-a072-f0f3fc6531cd"
+                                    }
+                                },
+                                "cover-fd5a37c9-c290-4877-a072-f0f3fc6531cd": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-fd5a37c9-c290-4877-a072-f0f3fc6531cd"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-woz-fd5a37c9-c290-4877-a072-f0f3fc6531cd-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }]
+        },
+        "foo": {
+            "section": {
+                "name": "foo",
+                "id": "foo",
+                "layout": {
+                    "uriMap": {}
+                },
+                "sections": {
+                    "foo": {
+                        "headline": "foo",
+                        "resources": {
+                            "foo": {
+                                "uriMap": {}
+                            }
+                        },
+                        "layouts": {
+                            "uriMap": {}
+                        }
+                    }
+                },
+                "formats": []
+            },
+            "articles": [{
+                    "name": "Proin nunc",
+                    "id": "e3ce3523-00c1-40f2-87a7-0498a5830abe",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-e3ce3523-00c1-40f2-87a7-0498a5830abe"
+                        }
+                    },
+                    "sections": {
+                        "e3ce3523-00c1-40f2-87a7-0498a5830abe": {
+                            "headline": "Proin nunc",
+                            "resources": {
+                                "story-e3ce3523-00c1-40f2-87a7-0498a5830abe": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-e3ce3523-00c1-40f2-87a7-0498a5830abe"
+                                    }
+                                },
+                                "cover-e3ce3523-00c1-40f2-87a7-0498a5830abe": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-e3ce3523-00c1-40f2-87a7-0498a5830abe"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-e3ce3523-00c1-40f2-87a7-0498a5830abe-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Duis ut",
+                    "id": "d350550b-4727-476c-9544-5a6a9b612ea8",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-d350550b-4727-476c-9544-5a6a9b612ea8"
+                        }
+                    },
+                    "sections": {
+                        "d350550b-4727-476c-9544-5a6a9b612ea8": {
+                            "headline": "Duis ut",
+                            "resources": {
+                                "story-d350550b-4727-476c-9544-5a6a9b612ea8": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-d350550b-4727-476c-9544-5a6a9b612ea8"
+                                    }
+                                },
+                                "cover-d350550b-4727-476c-9544-5a6a9b612ea8": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-d350550b-4727-476c-9544-5a6a9b612ea8"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-d350550b-4727-476c-9544-5a6a9b612ea8-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "e737e0b0-d841-411a-9d0f-af5e48b9abd8",
+                    "layout": {
+                        "uriMap": {
+                            "EXTRA_TALL": "laer-article-w2-h4-tile-foo-e737e0b0-d841-411a-9d0f-af5e48b9abd8"
+                        }
+                    },
+                    "sections": {
+                        "e737e0b0-d841-411a-9d0f-af5e48b9abd8": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "cover-e737e0b0-d841-411a-9d0f-af5e48b9abd8": {
+                                    "uriMap": {
+                                        "EXTRA_TALL": "laer-article-w2-h4-section-cover-e737e0b0-d841-411a-9d0f-af5e48b9abd8"
+                                    }
+                                },
+                                "story-e737e0b0-d841-411a-9d0f-af5e48b9abd8": {
+                                    "uriMap": {
+                                        "EXTRA_TALL": "laer-article-w2-h4-section-story-e737e0b0-d841-411a-9d0f-af5e48b9abd8"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "EXTRA_TALL": "laer-article-w2-h4-section-foo-e737e0b0-d841-411a-9d0f-af5e48b9abd8-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["EXTRA_TALL"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "835ea0d9-7474-44ab-9c56-1827d674ca59",
+                    "layout": {
+                        "uriMap": {
+                            "WIDE": "laer-article-w2-h1-tile-foo-835ea0d9-7474-44ab-9c56-1827d674ca59"
+                        }
+                    },
+                    "sections": {
+                        "835ea0d9-7474-44ab-9c56-1827d674ca59": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "cover-835ea0d9-7474-44ab-9c56-1827d674ca59": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-cover-835ea0d9-7474-44ab-9c56-1827d674ca59"
+                                    }
+                                },
+                                "story-835ea0d9-7474-44ab-9c56-1827d674ca59": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-story-835ea0d9-7474-44ab-9c56-1827d674ca59"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "WIDE": "laer-article-w2-h1-section-foo-835ea0d9-7474-44ab-9c56-1827d674ca59-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["WIDE"]
+                }, {
+                    "name": "Duis ut qu",
+                    "id": "a86823f7-3ffb-4dd3-a6cc-f4a05cada61c",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-foo-a86823f7-3ffb-4dd3-a6cc-f4a05cada61c"
+                        }
+                    },
+                    "sections": {
+                        "a86823f7-3ffb-4dd3-a6cc-f4a05cada61c": {
+                            "headline": "Duis ut qu",
+                            "resources": {
+                                "cover-a86823f7-3ffb-4dd3-a6cc-f4a05cada61c": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-a86823f7-3ffb-4dd3-a6cc-f4a05cada61c"
+                                    }
+                                },
+                                "story-a86823f7-3ffb-4dd3-a6cc-f4a05cada61c": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-a86823f7-3ffb-4dd3-a6cc-f4a05cada61c"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-foo-a86823f7-3ffb-4dd3-a6cc-f4a05cada61c-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "7a441659-ab4d-4b5e-8658-124c5e557478",
+                    "layout": {
+                        "uriMap": {
+                            "DOUBLE": "laer-article-w4-h4-tile-foo-7a441659-ab4d-4b5e-8658-124c5e557478"
+                        }
+                    },
+                    "sections": {
+                        "7a441659-ab4d-4b5e-8658-124c5e557478": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-7a441659-ab4d-4b5e-8658-124c5e557478": {
+                                    "uriMap": {
+                                        "DOUBLE": "laer-article-w4-h4-section-cover-7a441659-ab4d-4b5e-8658-124c5e557478"
+                                    }
+                                },
+                                "story-7a441659-ab4d-4b5e-8658-124c5e557478": {
+                                    "uriMap": {
+                                        "DOUBLE": "laer-article-w4-h4-section-story-7a441659-ab4d-4b5e-8658-124c5e557478"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "DOUBLE": "laer-article-w4-h4-section-foo-7a441659-ab4d-4b5e-8658-124c5e557478-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["DOUBLE"]
+                }, {
+                    "name": "Proin nunc",
+                    "id": "31ff1116-4ce1-42a7-8d1a-975bb3b932e4",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-31ff1116-4ce1-42a7-8d1a-975bb3b932e4"
+                        }
+                    },
+                    "sections": {
+                        "31ff1116-4ce1-42a7-8d1a-975bb3b932e4": {
+                            "headline": "Proin nunc",
+                            "resources": {
+                                "cover-31ff1116-4ce1-42a7-8d1a-975bb3b932e4": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-31ff1116-4ce1-42a7-8d1a-975bb3b932e4"
+                                    }
+                                },
+                                "story-31ff1116-4ce1-42a7-8d1a-975bb3b932e4": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-31ff1116-4ce1-42a7-8d1a-975bb3b932e4"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-31ff1116-4ce1-42a7-8d1a-975bb3b932e4-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Duis ut qu",
+                    "id": "0cb077d4-1016-4dc3-95d6-65cd999b4524",
+                    "layout": {
+                        "uriMap": {
+                            "EXTRA_WIDE": "laer-article-w4-h2-tile-foo-0cb077d4-1016-4dc3-95d6-65cd999b4524"
+                        }
+                    },
+                    "sections": {
+                        "0cb077d4-1016-4dc3-95d6-65cd999b4524": {
+                            "headline": "Duis ut qu",
+                            "resources": {
+                                "cover-0cb077d4-1016-4dc3-95d6-65cd999b4524": {
+                                    "uriMap": {
+                                        "EXTRA_WIDE": "laer-article-w4-h2-section-cover-0cb077d4-1016-4dc3-95d6-65cd999b4524"
+                                    }
+                                },
+                                "story-0cb077d4-1016-4dc3-95d6-65cd999b4524": {
+                                    "uriMap": {
+                                        "EXTRA_WIDE": "laer-article-w4-h2-section-story-0cb077d4-1016-4dc3-95d6-65cd999b4524"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "EXTRA_WIDE": "laer-article-w4-h2-section-foo-0cb077d4-1016-4dc3-95d6-65cd999b4524-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["EXTRA_WIDE"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "24809403-d371-4f29-a447-aeae26e959c9",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-24809403-d371-4f29-a447-aeae26e959c9"
+                        }
+                    },
+                    "sections": {
+                        "24809403-d371-4f29-a447-aeae26e959c9": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-24809403-d371-4f29-a447-aeae26e959c9": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-24809403-d371-4f29-a447-aeae26e959c9"
+                                    }
+                                },
+                                "story-24809403-d371-4f29-a447-aeae26e959c9": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-24809403-d371-4f29-a447-aeae26e959c9"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-24809403-d371-4f29-a447-aeae26e959c9-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Nullam ali",
+                    "id": "27804a04-1e25-4a1e-bc93-2e0656e53a68",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-foo-27804a04-1e25-4a1e-bc93-2e0656e53a68"
+                        }
+                    },
+                    "sections": {
+                        "27804a04-1e25-4a1e-bc93-2e0656e53a68": {
+                            "headline": "Nullam ali",
+                            "resources": {
+                                "cover-27804a04-1e25-4a1e-bc93-2e0656e53a68": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-27804a04-1e25-4a1e-bc93-2e0656e53a68"
+                                    }
+                                },
+                                "story-27804a04-1e25-4a1e-bc93-2e0656e53a68": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-27804a04-1e25-4a1e-bc93-2e0656e53a68"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-foo-27804a04-1e25-4a1e-bc93-2e0656e53a68-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Duis ut qu",
+                    "id": "d65cf6f1-36ab-49c6-b7c5-a19681338db5",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-d65cf6f1-36ab-49c6-b7c5-a19681338db5"
+                        }
+                    },
+                    "sections": {
+                        "d65cf6f1-36ab-49c6-b7c5-a19681338db5": {
+                            "headline": "Duis ut qu",
+                            "resources": {
+                                "cover-d65cf6f1-36ab-49c6-b7c5-a19681338db5": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-d65cf6f1-36ab-49c6-b7c5-a19681338db5"
+                                    }
+                                },
+                                "story-d65cf6f1-36ab-49c6-b7c5-a19681338db5": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-d65cf6f1-36ab-49c6-b7c5-a19681338db5"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-d65cf6f1-36ab-49c6-b7c5-a19681338db5-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "46d782ee-70be-4a7d-9ff8-e5858ce3580c",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-46d782ee-70be-4a7d-9ff8-e5858ce3580c"
+                        }
+                    },
+                    "sections": {
+                        "46d782ee-70be-4a7d-9ff8-e5858ce3580c": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "story-46d782ee-70be-4a7d-9ff8-e5858ce3580c": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-46d782ee-70be-4a7d-9ff8-e5858ce3580c"
+                                    }
+                                },
+                                "cover-46d782ee-70be-4a7d-9ff8-e5858ce3580c": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-46d782ee-70be-4a7d-9ff8-e5858ce3580c"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-46d782ee-70be-4a7d-9ff8-e5858ce3580c-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Suspendiss",
+                    "id": "8c22bf41-69c8-4af9-a74f-6d32e47d3e8f",
+                    "layout": {
+                        "uriMap": {
+                            "NORMAL": "laer-article-w2-h2-tile-foo-8c22bf41-69c8-4af9-a74f-6d32e47d3e8f"
+                        }
+                    },
+                    "sections": {
+                        "8c22bf41-69c8-4af9-a74f-6d32e47d3e8f": {
+                            "headline": "Suspendiss",
+                            "resources": {
+                                "cover-8c22bf41-69c8-4af9-a74f-6d32e47d3e8f": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-cover-8c22bf41-69c8-4af9-a74f-6d32e47d3e8f"
+                                    }
+                                },
+                                "story-8c22bf41-69c8-4af9-a74f-6d32e47d3e8f": {
+                                    "uriMap": {
+                                        "NORMAL": "laer-article-w2-h2-section-story-8c22bf41-69c8-4af9-a74f-6d32e47d3e8f"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "NORMAL": "laer-article-w2-h2-section-foo-8c22bf41-69c8-4af9-a74f-6d32e47d3e8f-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["NORMAL"]
+                }, {
+                    "name": "Sed ut ero",
+                    "id": "f18a0267-969c-4bd6-89dd-b680d0e9ac52",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-f18a0267-969c-4bd6-89dd-b680d0e9ac52"
+                        }
+                    },
+                    "sections": {
+                        "f18a0267-969c-4bd6-89dd-b680d0e9ac52": {
+                            "headline": "Sed ut ero",
+                            "resources": {
+                                "cover-f18a0267-969c-4bd6-89dd-b680d0e9ac52": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-f18a0267-969c-4bd6-89dd-b680d0e9ac52"
+                                    }
+                                },
+                                "story-f18a0267-969c-4bd6-89dd-b680d0e9ac52": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-f18a0267-969c-4bd6-89dd-b680d0e9ac52"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-f18a0267-969c-4bd6-89dd-b680d0e9ac52-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Suspendiss",
+                    "id": "af76efc9-73d6-49ed-907e-37e4aa4a6e4c",
+                    "layout": {
+                        "uriMap": {
+                            "TALL": "laer-article-w1-h2-tile-foo-af76efc9-73d6-49ed-907e-37e4aa4a6e4c"
+                        }
+                    },
+                    "sections": {
+                        "af76efc9-73d6-49ed-907e-37e4aa4a6e4c": {
+                            "headline": "Suspendiss",
+                            "resources": {
+                                "cover-af76efc9-73d6-49ed-907e-37e4aa4a6e4c": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-cover-af76efc9-73d6-49ed-907e-37e4aa4a6e4c"
+                                    }
+                                },
+                                "story-af76efc9-73d6-49ed-907e-37e4aa4a6e4c": {
+                                    "uriMap": {
+                                        "TALL": "laer-article-w1-h2-section-story-af76efc9-73d6-49ed-907e-37e4aa4a6e4c"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "TALL": "laer-article-w1-h2-section-foo-af76efc9-73d6-49ed-907e-37e4aa4a6e4c-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["TALL"]
+                }, {
+                    "name": "Donec ",
+                    "id": "0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725"
+                        }
+                    },
+                    "sections": {
+                        "0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725": {
+                            "headline": "Donec ",
+                            "resources": {
+                                "story-0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725"
+                                    }
+                                },
+                                "cover-0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-0f8a1a40-694a-44c1-bc9a-2bfe3d7cc725-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Lorem ipsu",
+                    "id": "ae393ddc-d579-424a-8889-35e2539923ef",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-ae393ddc-d579-424a-8889-35e2539923ef"
+                        }
+                    },
+                    "sections": {
+                        "ae393ddc-d579-424a-8889-35e2539923ef": {
+                            "headline": "Lorem ipsu",
+                            "resources": {
+                                "cover-ae393ddc-d579-424a-8889-35e2539923ef": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-ae393ddc-d579-424a-8889-35e2539923ef"
+                                    }
+                                },
+                                "story-ae393ddc-d579-424a-8889-35e2539923ef": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-ae393ddc-d579-424a-8889-35e2539923ef"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-ae393ddc-d579-424a-8889-35e2539923ef-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Duis ut qu",
+                    "id": "d4c3c97a-821b-4a48-b74a-07175866036a",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-d4c3c97a-821b-4a48-b74a-07175866036a"
+                        }
+                    },
+                    "sections": {
+                        "d4c3c97a-821b-4a48-b74a-07175866036a": {
+                            "headline": "Duis ut qu",
+                            "resources": {
+                                "cover-d4c3c97a-821b-4a48-b74a-07175866036a": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-d4c3c97a-821b-4a48-b74a-07175866036a"
+                                    }
+                                },
+                                "story-d4c3c97a-821b-4a48-b74a-07175866036a": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-d4c3c97a-821b-4a48-b74a-07175866036a"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-d4c3c97a-821b-4a48-b74a-07175866036a-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }, {
+                    "name": "Nam dui do",
+                    "id": "099a2873-e876-48f7-8592-55358dfc32c2",
+                    "layout": {
+                        "uriMap": {
+                            "WIDE": "laer-article-w2-h1-tile-foo-099a2873-e876-48f7-8592-55358dfc32c2"
+                        }
+                    },
+                    "sections": {
+                        "099a2873-e876-48f7-8592-55358dfc32c2": {
+                            "headline": "Nam dui do",
+                            "resources": {
+                                "cover-099a2873-e876-48f7-8592-55358dfc32c2": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-cover-099a2873-e876-48f7-8592-55358dfc32c2"
+                                    }
+                                },
+                                "story-099a2873-e876-48f7-8592-55358dfc32c2": {
+                                    "uriMap": {
+                                        "WIDE": "laer-article-w2-h1-section-story-099a2873-e876-48f7-8592-55358dfc32c2"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "WIDE": "laer-article-w2-h1-section-foo-099a2873-e876-48f7-8592-55358dfc32c2-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["WIDE"]
+                }, {
+                    "name": "Aenean neq",
+                    "id": "a1d54afc-bc27-4ce8-9808-a5f0cf3f914e",
+                    "layout": {
+                        "uriMap": {
+                            "HALF": "laer-article-w1-h1-tile-foo-a1d54afc-bc27-4ce8-9808-a5f0cf3f914e"
+                        }
+                    },
+                    "sections": {
+                        "a1d54afc-bc27-4ce8-9808-a5f0cf3f914e": {
+                            "headline": "Aenean neq",
+                            "resources": {
+                                "story-a1d54afc-bc27-4ce8-9808-a5f0cf3f914e": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-story-a1d54afc-bc27-4ce8-9808-a5f0cf3f914e"
+                                    }
+                                },
+                                "cover-a1d54afc-bc27-4ce8-9808-a5f0cf3f914e": {
+                                    "uriMap": {
+                                        "HALF": "laer-article-w1-h1-section-cover-a1d54afc-bc27-4ce8-9808-a5f0cf3f914e"
+                                    }
+                                }
+                            },
+                            "layouts": {
+                                "uriMap": {
+                                    "HALF": "laer-article-w1-h1-section-foo-a1d54afc-bc27-4ce8-9808-a5f0cf3f914e-cover"
+                                }
+                            }
+                        }
+                    },
+                    "formats": ["HALF"]
+                }]
+        }
+    }
+}

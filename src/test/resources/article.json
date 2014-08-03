@@ -1,0 +1,44 @@
+{
+    "name": "foo",
+    "id": "fooId",
+    "layout": {
+        "uriMap": {
+            "HALF": "laer-w1-h1-tile-foo"
+        }
+    },
+    "sections": {
+        "cover": {
+            "headline": "headline",
+            "content": "content",
+            "resources": {
+                "image": {
+                    "uriMap": {
+                        "HALF": "i/foo.png"
+                    }
+                }
+            },
+            "layouts": {
+                "uriMap": {
+                    "HALF": "laer-image-section"
+                }
+            }
+        },
+        "story": {
+            "headline": "headline",
+            "content": "content",
+            "resources": {
+                "image": {
+                    "uriMap": {
+                        "HALF": "i/foo.png"
+                    }
+                }
+            },
+            "layouts": {
+                "uriMap": {
+                    "HALF": "laer-image-section"
+                }
+            }
+        }
+    },
+    "formats": ["HALF"]
+}
